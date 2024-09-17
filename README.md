@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @smlanka
-- 👀 I’m interested in Data Analysis
+- 👋 Hi, I’m Shiv Mohan Lanka
+- 👀 I’m interested in Data Analysis, Machine Learning, Artificial Intelligence
 - 🌱 I’m currently learning Data analysis
-- 💞️ I’m looking to collaborate on data analysis projects
+- 💞️ I’m looking to collaborate on data analysis, AI/ML projects
+-  💞️ I’m looking for a full time opportunity in the above domains.
 - 📫 How to reach me Linkedin profile: https://www.linkedin.com/in/shiv-mohan-lanka-599748206/
 
 <!---
